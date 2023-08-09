@@ -1,6 +1,4 @@
 # HotelMenu-React
-
-# HotelMenu React App
 The HotelMenu React App is a simple web application that displays a hotel restaurant menu. It showcases various menu items along with their names, descriptions, and prices.
 
 ## Table of Contents
